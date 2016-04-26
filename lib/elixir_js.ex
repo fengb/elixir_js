@@ -1,0 +1,2 @@
+defmodule ElixirJs do
+end
